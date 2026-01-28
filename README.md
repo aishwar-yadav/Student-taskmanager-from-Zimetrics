@@ -2,6 +2,11 @@
 
 As per the task given by Zimmetrics , I have creayed a  simple Single Page Application to track homework tasks with a Node.js backend and vanilla JavaScript frontend.
 
+
+:TO intsall node_modules
+1)To add node modules go to cmd of the root folder and run - npm install
+
+
 :What our website does and how it works
 
 1) We can add our homework tasks by simply clicking on add task .
@@ -30,4 +35,5 @@ As per the task given by Zimmetrics , I have creayed a  simple Single Page Appli
 2) "public/index.html" - Here is the main HTML page
 3) "public/style.css" - for styling so that the webpage looks good
 4) "public/script.js" - JavaScript
+
 5) "tasks.json" - JSON file for task storage (created automatically)
