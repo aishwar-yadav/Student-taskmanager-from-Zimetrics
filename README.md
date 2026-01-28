@@ -37,3 +37,4 @@ As per the task given by Zimmetrics , I have creayed a  simple Single Page Appli
 4) "public/script.js" - JavaScript
 
 5) "tasks.json" - JSON file for task storage (created automatically)
+
